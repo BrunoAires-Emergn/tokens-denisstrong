@@ -870,7 +870,7 @@
                 "textDecoration": "{text-decoration.none}"
               },
               "type": "typography",
-              "description": "56"
+              "description": "56 semibold uppercase"
             },
             "Bold": {
               "value": {
@@ -2790,17 +2790,17 @@
       "XX-Large": {
         "value": "{Base.Display.XX-Large.Default.Bold}",
         "type": "typography",
-        "description": "88 bold"
+        "description": "80 bold"
       },
       "X-Large": {
         "value": "{Base.Display.X-Large.Default.Bold}",
         "type": "typography",
-        "description": "80 bold"
+        "description": "72 bold"
       },
       "Large": {
         "value": "{Base.Display.Large.Default.Bold}",
         "type": "typography",
-        "description": "72 bold"
+        "description": "64 bold"
       },
       "Medium": {
         "value": "{Base.Display.Medium.Default.Semi-bold}",
@@ -2810,12 +2810,12 @@
       "Small": {
         "value": "{Base.Display.Small.Default.Semi-bold}",
         "type": "typography",
-        "description": "56 semibold"
+        "description": "48 semibold"
       },
       "X-Small": {
         "value": "{Base.Display.X-Small.Default.Semi-bold}",
         "type": "typography",
-        "description": "48 semibold"
+        "description": "40 semibold"
       }
     },
     "Heading": {
